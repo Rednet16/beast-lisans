@@ -5,5 +5,5 @@
 #   Ornek:  BEAST-.... | 2026-12-31 a1        BEAST-.... a1 a3        BEAST-.... all
 # NOT: Her degisiklikten sonra 'python imzala.py' calistir + GitHub'a yukle (imzasiz = tum musteriler kilitli).
 BEAST-8A7C-6720-24DB-8B7B | 29.07.2026
-BEAST-905D-7DC1-2F90-2A3D  a1
+BEAST-905D-7DC1-2F90-2A3D a1
 #SIG=SBOHsOvgNNUtFNQKXNxjgVwe+IatlWluFbQ2aYhk2aj+gBWt+0KtKEk7ymmR3QWFzCMioxsdTUttP6Y0OLgXWfPLi9FSbPHxkolEnJ0hD0Zksyfo7oCRyM5uky+66LTN8d8Ix0ZYOS+Ozvy8gi9wqpFbRMWZq3KxpmsJ95VHXOp/KWQIzhBpIXz4vqsbxrFYDFIor/uRxQ/Hbns03Jp2+uytRYGkp3Zg7XTzuEa+BiXrh+W22dn+5+FZwCXa/2GMEakMwiPPm43Md9cAcNU04eyQzZ3eF43XSluw99Chto8xlY0pK5A/pAyOQzHn26X+4u3GosvgTM3lJ5wRq6LfJQ==
